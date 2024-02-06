@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: OtusAuthorizationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.07 s -- in OtusAuthorizationTest
